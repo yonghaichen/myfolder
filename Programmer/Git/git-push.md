@@ -1,6 +1,6 @@
 
-`git push origin –-delete xxxx` All listed refs are deleted from the remote repository.
 
+git push origin :<branch_name>
 
 
 
