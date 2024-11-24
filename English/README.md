@@ -1,6 +1,6 @@
 # myfolder
 
-minimalism
+minimalism - cool
 
 voice
 
