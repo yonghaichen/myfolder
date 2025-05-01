@@ -16,3 +16,5 @@ export GOPRIVATE=gitlab.com,gitee.com,gitea.com
 
 
 `source ~/.zshrc`   
+
+`export GOPROXY=https://goproxy.cn`
